@@ -1,0 +1,44 @@
+Mitchell-Liu
+BACKGROUND
+Languages:Python•C•C++•Pandas•Javascript•SQL•HTML•CSS
+Technologies:Visual Studio•Visual Studio Code•API•Database(SQL/pandas)
+TECHNICAL PROJECTS
+Walk-in Clinic’s Patient database – CMPT 225
+C++Jan - Apr 2022
+●UtilizedC++to create a program to hold the informationof a patient at a walk-in clinic
+●Implemented functions such as insert, remove and search to allow users to manipulate patient information
+●Created automated sorting functionality to sort users by first name
+Audio-Visual Language Learner for Blackfoot – CMPT 120
+Pygame, PythonSep - Dec 2020
+●Designed and implemented a language learning program that teaches an endangered Canadian language through
+interactive text, image and audio-based
+●Created functions to allow the user to learn objects and places on the screen, as well as test them on the words that
+they learned
+●Utilized a databaseof English words and their translatedcounterparts to create dictionaries for the program to use
+●
+Used image and sound files to create a variety ofimmersive backgroundsthat the user can move throughusing the
+program’s functions
+PERSONAL PROJECTS
+HWInsider | HelloHacks
+HTML, CSS, Javascript, FigmaSep 2022
+●HWInsider is a web app that allows students to upload reviews and relevant resources for their assignments to allow
+their peers to gauge the difficulty and time commitment required
+●Supported the team by designing and building the web app’s UI in HTML, CSS, JS and Figma
+●Collaborated with teammates on the design and implementation of various components and pages
+Daily COVID Prediction Model | HackTheValley 5 -DCPChallenge #2 - 1st Place
+fbprophet, numpy, pandas, plotly seabornOct 2021
+●Collaborated in the design and implement a prediction model for daily COVID infection rates
+●Preprocessed data by utilizing pandas in order to allow for the creation of a more accurate model
+●Worked under a time limit of two days to create a working program
+●UtilizedJupyterNotebookto properly display informationin a straightforward and chronological way
+WORK EXPERIENCE
+Pacific First Aid - Summer 2021
+Vancouver, BC
+Warehouse AssistantJul – Aug 2021
+●Kept an accurate measurement of available inventory using excel to provide information to the rest of the team
+●Collaborated with other employees organizing contents of customer orders to fulfill requests
+●Overlooked the quality of shipments being prepared by checking the items of each package in order to fulfill the
+correct order
+EDUCATION
+Simon Fraser UniversitySep 2020 - Present
+Bachelor of Science - Computing ScienceExp. Grad: Apr 2025
