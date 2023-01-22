@@ -18,12 +18,12 @@ try {
 const compResume = (req, res) => {
     try {
         const content = fs.readFileSync("../resume.txt").toString().split("\n");
-        console.log(content);
         for (let i = 0; i < content.length; i++) {
             const split = content[i].split(":");
             if (split[0] === "Languages") {
                 const splitSkills = split[1];
                 const skills = splitSkills.split("•");
+                console.log(skills);
                 res.status(200).json(skills);
             }
         }
@@ -33,4 +33,3 @@ const compResume = (req, res) => {
 }
 
 app.get("/resume/compare", compResume);
-
