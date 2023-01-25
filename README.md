@@ -1,14 +1,2 @@
 # nwHacks-2023
-## Inspiration
-
-## What it does
-
-## How we built it
-
-## Challenges we ran into
-
-## Accomplishments that we're proud of
-
-## What we learned
-
-## What's next for ___
+Aspired to built a webiste to help students understand what skills to develop for their dream job and what skills to discuss for jobs they are qualified for 
