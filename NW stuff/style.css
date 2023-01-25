@@ -1,0 +1,49 @@
+.bg{
+    background-image: linear-gradient(to bottom,#B29ADD, white);
+    height: 0%;
+    margin: 0;
+    background-attachment: fixed;
+
+}
+
+.FO{
+    font-size: 36px;
+    text-align: left;
+    margin-left: 20px;
+    margin-bottom: 0;
+
+}
+
+.description{
+    font-size: 18;
+    color: #44444F;
+    text-align: left;
+    margin-top: -60px;    
+}
+
+.bullets{
+    line-height: 70px;
+    margin-top: -20px;
+    font-size: 24px;
+    text-align: left;
+    color: #44444F;
+}
+
+.picture{
+    margin-right: 20px;
+    margin-top: -400px;
+}
+
+.logo{
+    margin-bottom: -60px;
+}
+
+.dropbtn{
+    width: 300px;
+    height: 50px;
+    background-color:  #B29ADD;
+    align-items: center;
+    margin-left: 425px;
+    border-radius: 25px;
+}
+
